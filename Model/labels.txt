@@ -1,0 +1,7 @@
+0 A
+1 B
+2 C
+3 Help
+4 Ok
+5 ThankYou
+6 Yes
